@@ -1,2 +1,2 @@
 # My-SQL
-This is my Excle Project Which i have learned and done.
+This is my SQL Project Which i have learned and done.
